@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandhya Singh M</h1>
+<h1 align="center">Hi 👋, I'm Sandhya Singh </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhyaasingh&label=Profile%20views&color=0e75b6&style=flat" alt="sandhyaasingh" /> </p>
 
 - 📫 How to reach me **sandhyasingh17073@gmail.com**
