@@ -4,11 +4,11 @@
   <tr>
     <td>
       <p>
-        A tech enthusiast with a passion for exploring creative and real-world applications of technology. Driven by curiosity and innovation, I enjoy solving problems, learning new technologies and refining my skills to build efficient, impactful solutions while continuously evolving in the dynamic tech landscape.   
+        A tech enthusiast passionate about innovation and real-world problem-solving. Always exploring new technologies to build efficient, impactful solutions while evolving in the dynamic tech landscape.   
       </p>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/sandhyaasingh/sandhyaasingh/main/Giffy.gif" width="380">
+      <img src="https://raw.githubusercontent.com/sandhyaasingh/sandhyaasingh/main/Giffy.gif" width="280">
     </td>
   </tr>
 </table>  
