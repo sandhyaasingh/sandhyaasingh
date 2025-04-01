@@ -20,31 +20,22 @@
 <p align="center">
 
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 
-  <!-- Frontend Development -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" />
-
-  <!-- Backend Development -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+  <!-- Frontend & Backend Development -->
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask" />
 
   <!-- AI/ML -->
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 
   <!-- DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp" />
 
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github" />
-
-  <!-- Testing & Software -->
-  <img src="https://skillicons.dev/icons?i=selenium,postman" />
-
-  <!-- Other -->
-  <img src="https://skillicons.dev/icons?i=arduino,vscode,visualstudio" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode" />
 
 </p>
 
@@ -77,4 +68,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40"/>
   </a>
 </p>
-
