@@ -34,7 +34,7 @@
 
 ---  
 
-### 📊 GitHub Stats & 🔥 Most Used Languages  
+### 📊 GitHub Stats & Activity  
 
 <table align="center">  
   <tr>  
@@ -45,7 +45,13 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyaasingh&layout=compact&theme=tokyonight" />  
     </td>  
   </tr>  
+  <tr>  
+    <td colspan="2" align="center">  
+      <img src="https://streak-stats.demolab.com/?user=sandhyaasingh&theme=tokyonight" height="140" />  
+    </td>  
+  </tr>  
 </table>  
+  
 
 ---  
 
