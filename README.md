@@ -49,12 +49,6 @@
 
 ---  
 
-### 🐍 GitHub Contributions Snake  
-
-![GitHub Snake](https://github.com/sandhyaasingh/sandhyaasingh/blob/output/github-contribution-grid-snake.svg)  
-
----  
-
 ### 🌐 Let's Connect  
 
 <p align="left">  
