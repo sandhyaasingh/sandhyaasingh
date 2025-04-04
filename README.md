@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Sandhya Singh<img src="https://raw.githubusercontent.com/sandhyaasingh/sandhyaasingh/main/huh.gif" width="50" height="30"></h1>
+<h1 align="center">Hey there! I'm Sandhya Singh <img src="https://raw.githubusercontent.com/sandhyaasingh/sandhyaasingh/main/huh.gif" width="50" height="30"></h1>
 
 <table>  
   <tr>  
@@ -45,13 +45,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyaasingh&layout=compact&theme=tokyonight" />  
     </td>  
   </tr>  
-  <tr>  
-    <td colspan="2" align="center">  
-      <img src="https://streak-stats.demolab.com/?user=sandhyaasingh&theme=tokyonight" height="140" />  
-    </td>  
-  </tr>  
 </table>  
-  
 
 ---  
 
@@ -66,4 +60,4 @@
   <a href="mailto:sandhyasingh17073@gmail.com" style="outline: none;">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40"/>  
   </a>  
-</p>
+</p>  
