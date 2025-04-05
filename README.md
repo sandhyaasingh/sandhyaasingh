@@ -1,4 +1,6 @@
-<h1 align="center">Hey there! I'm Sandhya Singh <img src="https://raw.githubusercontent.com/sandhyaasingh/sandhyaasingh/main/huh.gif" width="50" height="30"></h1>
+<h1 align="center">
+  Hey there! I'm Sandhya Singh<img src="https://raw.githubusercontent.com/sandhyaasingh/sandhyaasingh/main/huh.gif" width="50" height="30" style="display:inline; vertical-align:middle; margin:0; padding:0;" />
+</h1>
 
 <table>  
   <tr>  
