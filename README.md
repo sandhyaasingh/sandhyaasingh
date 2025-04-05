@@ -1,6 +1,10 @@
-<h1 align="center">
-  Hey there! I'm Sandhya Singh<img src="https://raw.githubusercontent.com/sandhyaasingh/sandhyaasingh/main/huh.gif" width="50" height="30" style="display:inline; vertical-align:middle; margin:0; padding:0;" />
-</h1>
+<div align="left" style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=sandhyaasingh&style=flat-square&color=7f5af0&label=Profile+Views" alt="Profile Views" />
+  <h1 style="margin: 0; display: flex; align-items: center; font-size: 2em;">
+    Hey there! I'm Sandhya Singh
+    <img src="https://raw.githubusercontent.com/sandhyaasingh/sandhyaasingh/main/huh.gif" width="50" height="30" style="margin-left: 10px;" />
+  </h1>
+</div>
 
 <table>  
   <tr>  
