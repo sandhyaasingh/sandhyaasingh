@@ -13,46 +13,43 @@
   </tr>  
 </table>  
 
----  
+---
 
 ### 🚀 I Code With  
 
 <p align="center">  
-  <!-- Programming Languages -->  
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />  
-  <!-- Frontend & Backend Development -->  
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask" />  
-  <!-- AI/ML -->  
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />  
-  <!-- Databases -->  
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />  
-  <!-- DevOps & Cloud -->  
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp" />  
-  <!-- Tools -->  
   <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode" />  
 </p>  
 
----  
+---
 
 ### 📊 GitHub Stats & Activity  
 
-<table align="center">  
-  <tr>  
-    <td>  
-      <img src="https://github-readme-stats.vercel.app/api?username=sandhyaasingh&show_icons=true&theme=tokyonight&count_private=true" />  
-    </td>  
-    <td>  
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyaasingh&layout=compact&theme=tokyonight" />  
-    </td>  
-  </tr>  
-</table>  
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sandhyaasingh&show_icons=true&theme=tokyonight&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyaasingh&layout=compact&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=sandhyaasingh&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+  
 
----  
+---
 
 ### 🌐 Let's Connect  
 
 <p align="left">  
-  &nbsp; &nbsp; &nbsp; &nbsp;  
   <a href="https://www.linkedin.com/in/sandhyasinghm/" target="_blank" style="outline: none;">  
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>  
   </a>  
