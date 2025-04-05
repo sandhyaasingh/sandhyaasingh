@@ -28,21 +28,14 @@
 
 ---
 
-### 📊 GitHub Stats & Activity  
+### 📊 GitHub Stats & Activity
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sandhyaasingh&show_icons=true&theme=tokyonight&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyaasingh&layout=compact&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=sandhyaasingh&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandhyaasingh&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyaasingh&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandhyaasingh&theme=tokyonight&border=ffffff&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
   
 
 ---
