@@ -38,9 +38,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sandhyaasingh&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyaasingh&layout=compact&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandhyaasingh&theme=tokyonight&border=ffffff&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github.com/sandhyaasingh/sandhyaasingh/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
-
-  
 
 ---
 
