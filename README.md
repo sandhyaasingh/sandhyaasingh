@@ -1,7 +1,7 @@
 <h1 align="left">
   <img src="https://komarev.com/ghpvc/?username=sandhyaasingh&style=flat-square&color=7f5af0&label=Profile+Views" alt="Profile Views" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Hey there! I'm Sandhya Singh <img src="https://raw.githubusercontent.com/sandhyaasingh/sandhyaasingh/main/huh.gif" width="50" height="30" />
+  Hey there! I'm Sandhya Singh<img src="https://raw.githubusercontent.com/sandhyaasingh/sandhyaasingh/main/huh.gif" width="50" height="30" />
 </h1>
 
 <table>  
