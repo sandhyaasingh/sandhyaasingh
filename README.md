@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 I Code With  
+### 🚀 I Code with  
 
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />  
