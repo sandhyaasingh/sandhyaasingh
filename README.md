@@ -23,10 +23,10 @@
 
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />  
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask" />  
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,flask" />  
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />  
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />  
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp" />  
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />  
+  <img src="https://skillicons.dev/icons?i=postman,gcp,selenium" />  
   <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode" />  
 </p>  
 
