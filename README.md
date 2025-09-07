@@ -43,9 +43,9 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=90&section=footer&animation=twinkling" style="width:100%; max-width:1000px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=90&section=footer&animation=twinkling"
+       style="width:100%; display:block;" />
 </div>
-
 
 ### 🌐 Let's Connect  
 
