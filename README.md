@@ -22,12 +22,10 @@
 ### 🚀 I Code With  
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />  
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,flask" />  
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />  
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />  
-  <img src="https://skillicons.dev/icons?i=postman,gcp,selenium" />  
-  <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode" />  
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />  
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mysql,mongodb" />  
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />   
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,arduino,git,github,postman,firebase" />  
 </p>  
 
 ---
