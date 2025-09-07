@@ -21,7 +21,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=90&section=header&animation=twinkling" style="width:100%; max-width:1000px;" />
 </div>
 
-
 ### 🚀 I Code With  
 
 <p align="center">  
