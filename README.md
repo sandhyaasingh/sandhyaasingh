@@ -17,7 +17,10 @@
   </tr>  
 </table>  
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=header&animation=twinkling" style="width:100%; max-width:1000px;" />
+</div>
+
 
 ### 🚀 I Code With  
 
@@ -39,7 +42,10 @@
   <img src="https://github.com/sandhyaasingh/sandhyaasingh/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=twinkling" style="width:100%; max-width:1000px;" />
+</div>
+
 
 ### 🌐 Let's Connect  
 
